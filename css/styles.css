@@ -300,7 +300,10 @@ figure {
 img,
 svg {
   vertical-align: middle;
-  margin: 30px;
+}
+
+.page-image{
+  margin: 30; 
 }
 
 table {
